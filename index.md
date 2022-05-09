@@ -1,9 +1,10 @@
-{% include matomo.html %}
-
-
 Resources accompanying my talk at [NLUUG 2022](https://www.nluug.nl/activiteiten/events/vj22/programma/index.html).
 
-![](opening_slide.jpg)
+[Slide deck](https://evzijst.s3.us-west-2.amazonaws.com/slides.key) (Apple Keynote)
+
+
+[![Download slides](opening_slide.jpg)](https://evzijst.s3.us-west-2.amazonaws.com/slides.key)
+
 
 ## HDL Tooling
 
@@ -26,33 +27,35 @@ Resources accompanying my talk at [NLUUG 2022](https://www.nluug.nl/activiteiten
 
 ## FPGAs
 
-* Claire Wolf: RTL to iCE40: https://www.youtube.com/watch?v=SOn0g3k0FlE
-* Precursor: open, FPGA-based "phone": https://www.crowdsupply.com/sutajio-kosagi/precursor
-* SymbiFlow / F4PGA: end-to-end open source FPGA toolchain ("gcc for FPGAs"): https://f4pga.org/
-* FABulous: an open FPGA fabric: https://fabulous.readthedocs.io/en/latest/
-* SOFA (Skywater Opensource FpgA): open-source embedded FPGA IP library: https://skywater-openfpga.readthedocs.io/en/latest/device/introduction/
+* Claire Wolf: Reverse engineering RTL to iCE40: [https://www.youtube.com/watch?v=SOn0g3k0FlE](https://www.youtube.com/watch?v=SOn0g3k0FlE)
+* Precursor: open, FPGA-based "phone": [https://www.crowdsupply.com/sutajio-kosagi/precursor](https://www.crowdsupply.com/sutajio-kosagi/precursor)
+* SymbiFlow / F4PGA: end-to-end open source FPGA toolchain ("gcc for FPGAs"): [https://f4pga.org/](https://f4pga.org/)
+* FABulous: an open FPGA fabric: [https://fabulous.readthedocs.io/en/latest/](https://fabulous.readthedocs.io/en/latest/)
+* SOFA (Skywater Opensource FpgA): open-source embedded FPGA IP library: [https://skywater-openfpga.readthedocs.io/en/latest/device/introduction/](https://skywater-openfpga.readthedocs.io/en/latest/device/introduction/)
 * FPGA vendors: Altera (Intel), Xilinx (AMD), Lattice, QuickLogic
 
 ## IP Cores
 
-* Open source IP cores: https://opencores.org/projects
-* Commercial IP core marketplace: https://www.design-reuse.com/
-* CHIPS Alliance: Linux Foundation backed open source hardware components and tooling: https://chipsalliance.org/
+* Open source IP cores: [https://opencores.org/projects](https://opencores.org/projects)
+* Commercial IP core marketplace: [https://www.design-reuse.com/](https://www.design-reuse.com/)
+* CHIPS Alliance: Linux Foundation backed open source hardware components and tooling: [https://chipsalliance.org/](https://chipsalliance.org/)
 
 ## RISC-V
 
-* RISC-V organisation: https://riscv.org/
-* PicoRV32: Compact 32 bit RISC-V core: https://github.com/YosysHQ/picorv32
-* https://www.eetasia.com/is-arms-inflexibility-its-downfall/
-* https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures#cite_note-30
-* RISC-V in Google's HSM: https://www.golem.de/news/titan-m2-googles-security-chip-nutzt-risc-v-2110-160659.html
+* RISC-V organisation: [https://riscv.org/](https://riscv.org/)
+* PicoRV32: Compact 32 bit RISC-V core: [https://github.com/YosysHQ/picorv32](https://github.com/YosysHQ/picorv32)
+* ARM vs RISC-V [https://www.eetasia.com/is-arms-inflexibility-its-downfall/](https://www.eetasia.com/is-arms-inflexibility-its-downfall/)
+* List of instruction sets: [https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures#cite_note-30](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures#cite_note-30)
+* RISC-V in Google's HSM: [https://www.golem.de/news/titan-m2-googles-security-chip-nutzt-risc-v-2110-160659.html](https://www.golem.de/news/titan-m2-googles-security-chip-nutzt-risc-v-2110-160659.html)
 
 
 ## Miscellaneous
 
-* MNT Reform: Laptop with lots of open hardware: https://mntre.com/media/reform_md/2020-05-08-the-much-more-personal-computer.html
-* Digital covid test: https://twitter.com/foone/status/1475228059867381761?lang=en
-* SD card controllers: https://www.dpreview.com/forums/post/31459918
-* Bunnie on LiteX vs Vivado: https://www.bunniestudios.com/blog/?p=5018
-* Revolution OS: 2001 documentary on OSS & Linux: https://www.youtube.com/watch?v=J1bBG1NtL18
+* MNT Reform: Laptop with lots of open hardware: [https://mntre.com/media/reform_md/2020-05-08-the-much-more-personal-computer.html](https://mntre.com/media/reform_md/2020-05-08-the-much-more-personal-computer.html)
+* Digital covid test: [https://twitter.com/foone/status/1475228059867381761](https://twitter.com/foone/status/1475228059867381761)
+* SD card controllers: [https://www.dpreview.com/forums/post/31459918](https://www.dpreview.com/forums/post/31459918)
+* Bunnie on LiteX vs Vivado: [https://www.bunniestudios.com/blog/?p=5018](https://www.bunniestudios.com/blog/?p=5018)
+* Revolution OS: 2001 documentary on OSS & Linux: [https://www.youtube.com/watch?v=J1bBG1NtL18](https://www.youtube.com/watch?v=J1bBG1NtL18)
 
+
+This site is open source. {% github_edit_link "Improve this page" %}

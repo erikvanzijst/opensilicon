@@ -2,6 +2,8 @@ Resources accompanying my talk at [NLUUG 2022](https://www.nluug.nl/activiteiten
 
 [Slide deck](https://evzijst.s3.us-west-2.amazonaws.com/slides.key) (Apple Keynote)
 
+[Slide deck](https://evzijst.s3.us-west-2.amazonaws.com/opensilicon_slides.mp4) (MP4 movie)
+
 
 [![Download slides](opening_slide.jpg)](https://evzijst.s3.us-west-2.amazonaws.com/slides.key)
 

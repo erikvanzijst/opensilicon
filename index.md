@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+{% include matomo.html %}
 
-You can use the [editor on GitHub](https://github.com/erikvanzijst/opensilicon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Resources accompanying my talk at [NLUUG 2022](https://www.nluug.nl/activiteiten/events/vj22/programma/index.html).
 
-### Markdown
+![](opening_slide.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## HDL Tooling
 
-```markdown
-Syntax highlighted code block
+* Verilog: Low-level hardware description level: [https://wikipedia.org/wiki/Verilog](https://wikipedia.org/wiki/Verilog)
+* VHDL: Low-level hardware description level: [https://en.wikipedia.org/wiki/VHDL](https://en.wikipedia.org/wiki/VHDL)
+* Amaranth (nMigen): Modern HDL based on Python: [https://github.com/amaranth-lang/amaranth](https://github.com/amaranth-lang/amaranth)
+* Chisel: Modern HDL based on Scala: [https://www.chisel-lang.org/](https://www.chisel-lang.org/)
+* SpinalHDL: Another modern HDL based on Scala: [https://spinalhdl.github.io/SpinalDoc-RTD/master/index.html](https://spinalhdl.github.io/SpinalDoc-RTD/master/index.html)
+* LiteX: Python-based System on a Chip (SoC) designer: [https://github.com/enjoy-digital/litex](https://github.com/enjoy-digital/litex)
 
-# Header 1
-## Header 2
-### Header 3
+## ASICs
 
-- Bulleted
-- List
+* Twitter thread on Pong ASIC project: [https://twitter.com/erikvanzijst/status/1388668730163359747](https://twitter.com/erikvanzijst/status/1388668730163359747)
+* ZeroToAsic course: [https://www.zerotoasiccourse.com/](https://www.zerotoasiccourse.com/)
+* @mattvenn's ASIC resources: [https://github.com/mattvenn/awesome-opensource-asic-resources](https://github.com/mattvenn/awesome-opensource-asic-resources)
+* Google/SkyWater/eFabless [announcement on hackster.io](https://www.hackster.io/news/efabless-google-and-skywater-are-enabling-us-mere-mortal-makers-to-design-our-own-open-source-asics-28917eb5357a)
+* Cadence Generic PDK: [https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/generic-pdks](https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/generic-pdks)
+* Photolithography video by Zeiss: [https://www.youtube.com/watch?v=IMptIcviR0Y&t=0s](https://www.youtube.com/watch?v=IMptIcviR0Y&t=0s)
+* [Sam Zeloof](http://sam.zeloof.xyz/) home IC manufacturing: [https://www.youtube.com/watch?v=23fTB3hG5cA](https://www.youtube.com/watch?v=23fTB3hG5cA)
 
-1. Numbered
-2. List
+## FPGAs
 
-**Bold** and _Italic_ and `Code` text
+* Claire Wolf: RTL to iCE40: https://www.youtube.com/watch?v=SOn0g3k0FlE
+* Precursor: open, FPGA-based "phone": https://www.crowdsupply.com/sutajio-kosagi/precursor
+* SymbiFlow / F4PGA: end-to-end open source FPGA toolchain ("gcc for FPGAs"): https://f4pga.org/
+* FABulous: an open FPGA fabric: https://fabulous.readthedocs.io/en/latest/
+* SOFA (Skywater Opensource FpgA): open-source embedded FPGA IP library: https://skywater-openfpga.readthedocs.io/en/latest/device/introduction/
+* FPGA vendors: Altera (Intel), Xilinx (AMD), Lattice, QuickLogic
 
-[Link](url) and ![Image](src)
-```
+## IP Cores
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* Open source IP cores: https://opencores.org/projects
+* Commercial IP core marketplace: https://www.design-reuse.com/
+* CHIPS Alliance: Linux Foundation backed open source hardware components and tooling: https://chipsalliance.org/
 
-### Jekyll Themes
+## RISC-V
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/erikvanzijst/opensilicon/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* RISC-V organisation: https://riscv.org/
+* PicoRV32: Compact 32 bit RISC-V core: https://github.com/YosysHQ/picorv32
+* https://www.eetasia.com/is-arms-inflexibility-its-downfall/
+* https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures#cite_note-30
+* RISC-V in Google's HSM: https://www.golem.de/news/titan-m2-googles-security-chip-nutzt-risc-v-2110-160659.html
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Miscellaneous
+
+* MNT Reform: Laptop with lots of open hardware: https://mntre.com/media/reform_md/2020-05-08-the-much-more-personal-computer.html
+* Digital covid test: https://twitter.com/foone/status/1475228059867381761?lang=en
+* SD card controllers: https://www.dpreview.com/forums/post/31459918
+* Bunnie on LiteX vs Vivado: https://www.bunniestudios.com/blog/?p=5018
+* Revolution OS: 2001 documentary on OSS & Linux: https://www.youtube.com/watch?v=J1bBG1NtL18
+

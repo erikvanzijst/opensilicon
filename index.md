@@ -39,6 +39,7 @@ Resources accompanying my talk at [NLUUG 2022](https://www.nluug.nl/activiteiten
 ## IP Cores
 
 * Open source IP cores: [https://opencores.org/projects](https://opencores.org/projects)
+* FOSSi: Foundation promoting open hardware and ecosystems: [https://www.fossi-foundation.org/fossi](https://www.fossi-foundation.org/fossi)
 * Commercial IP core marketplace: [https://www.design-reuse.com/](https://www.design-reuse.com/)
 * CHIPS Alliance: Linux Foundation backed open source hardware components and tooling: [https://chipsalliance.org/](https://chipsalliance.org/)
 

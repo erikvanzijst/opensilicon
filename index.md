@@ -2,15 +2,12 @@ Resources accompanying my talk at [NLUUG 2022](https://www.nluug.nl/activiteiten
 
 ## Recording
 
-[Recording on YouTube](https://youtu.be/PjfiXEgieWQ?t=13250)
-
-[![Recording](thumbnail.jpg)](https://youtu.be/PjfiXEgieWQ?t=13250)
+<iframe width="740" height="416" src="https://www.youtube.com/embed/j011awS2CxQ" title="The Open Silicon revolution" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Slides
 
-[Slide deck](https://evzijst.s3.us-west-2.amazonaws.com/slides.key) (Apple Keynote)
-
-[Slide deck](https://evzijst.s3.us-west-2.amazonaws.com/opensilicon_slides.mp4) (MP4 movie)
+* [Slide deck](https://evzijst.s3.us-west-2.amazonaws.com/slides.key) (Apple Keynote)
+* [Slide deck](https://evzijst.s3.us-west-2.amazonaws.com/opensilicon_slides.mp4) (MP4 movie)
 
 [![Download slides](opening_slide.jpg)](https://evzijst.s3.us-west-2.amazonaws.com/slides.key)
 

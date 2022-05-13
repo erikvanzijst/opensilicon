@@ -28,6 +28,7 @@ Resources accompanying my talk at [NLUUG 2022](https://www.nluug.nl/activiteiten
 * ZeroToAsic course: [https://www.zerotoasiccourse.com/](https://www.zerotoasiccourse.com/)
 * @mattvenn's ASIC resources: [https://github.com/mattvenn/awesome-opensource-asic-resources](https://github.com/mattvenn/awesome-opensource-asic-resources)
 * Google/SkyWater/eFabless [announcement on hackster.io](https://www.hackster.io/news/efabless-google-and-skywater-are-enabling-us-mere-mortal-makers-to-design-our-own-open-source-asics-28917eb5357a)
+* High level PDK history: [https://semiengineering.com/the-process-design-kit-protecting-design-know-how/](https://semiengineering.com/the-process-design-kit-protecting-design-know-how/)
 * Cadence Generic PDK: [https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/generic-pdks](https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/generic-pdks)
 * Photolithography video by Zeiss: [https://www.youtube.com/watch?v=IMptIcviR0Y&t=0s](https://www.youtube.com/watch?v=IMptIcviR0Y&t=0s)
 * [Sam Zeloof](http://sam.zeloof.xyz/) home IC manufacturing: [https://www.youtube.com/watch?v=23fTB3hG5cA](https://www.youtube.com/watch?v=23fTB3hG5cA)
